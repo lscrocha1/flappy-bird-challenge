@@ -1,0 +1,1 @@
+The second game in the first challenge here https://20_games_challenge.gitlab.io/challenge/. Finalized it in less than 3 hours.
